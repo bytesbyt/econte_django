@@ -15,7 +15,7 @@
                         <div class="card-body">
                             <div class="image-container">
                                 <div class="image-flash">
-                                    <p class="author"> By {{ post.author }}</p>
+                                    <p class="author">Author: {{ post.author }}</p>
                                 </div>
                             </div>
                             <a href="{% url 'post_detail' post.slug %}" class="post-link">
@@ -24,7 +24,7 @@
                             </a>
 
                             <hr />
-                            <p class="card-text text-muted h7">{{ post.created_on}}
+                            <p class="card-text text-muted h6">{{ post.created_on}}
                             </p>
                         </div>
                     </div>
@@ -56,4 +56,8 @@
 </div>
 
 <!-- index.html content ends here -->
+{% endblock %}
+
+{% block copyright %}
+    Copyright 2024 Econte
 {% endblock %}
