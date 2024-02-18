@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<div class="container mt-5">
+    <div class="text-center">
+
+        <h2>{{ contact.title }}</h2>
+           
+        {{ contact.content | safe }}
+    
+    </div>
+   
+ 
+</div>
+{% endblock content %}
