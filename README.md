@@ -1,110 +1,161 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Econte Lab
 
-Welcome Tes R,
+Econte Lab is a blog site that hopes to create a platform where like-minded individuals can keep motivated to live mindfully by sharing tips and strategies on how to become a mindful pereson.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+It is available to the whole world aiming to enrich other people’s lives by providing content that can help hone a positive outlook toward life.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![Responsive Mockup](assets/docs/econte_mockup.png)
 
-## Gitpod Reminders
+## Wireframes
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Mobile first wireframes were created to show the basic layout of the website using Figma. This can be viewed on [Figma](https://www.figma.com/file/tn31GmaDQI9G27byM7oohP/Untitled?type=design&node-id=0%3A1&mode=design&t=Xah0acr87TvzVzTs-1)
 
-`python3 -m http.server`
+- __Home Page__
 
-A blue button should appear to click: _Make Public_,
+  - Wireframe image below shows top and bottom mobile view of the Home page.
 
-Another blue button should appear to click: _Open Browser_.
+![Home Page]()
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- __Blog Page__
 
-A blue button should appear to click: _Make Public_,
+  - Wireframe image below shows top and bottom mobile view of the Blog page.
 
-Another blue button should appear to click: _Open Browser_.
+![Blog Page]()
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- __Subscibe Page__
 
-To log into the Heroku toolbelt CLI:
+  - Wireframe image below shows mobile view of the Subscribe page.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+![Subscribe Page]()
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Features 
 
-------
+### Existing Features
 
-## Release History
+- __Navigation Bar__
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+  - Featured at the top of the page, the navigation shows the blog name in the left corner: Econte.
+  - Featured on all three pages on the right, the full responsive navigation bar includes links to the Home, Blog and Subscibe page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - The navigation clearly tells the user the name website and makes the different sections of information easy to read.
 
-**September 20 2023:** Update Python version to 3.9.17.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+ ![Navigation Bar]()
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+- __The landing page image__
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
+  - This section introduces the users of Econte with an eye catching zoom effect animation to grab their attention.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+ ![Landing Page Image](assets/docs/econte_landing.png)
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- __Video Section__
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+  - The video section will visually inspire and encourage the user to consider yoga as their form of practice for mindful living.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+![Video Page](assets/docs/econte_video.png)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- __About Section__
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+  - About section will allow the users to understand what is mindfulness and see the benefits of joining the community of mindfulness. 
+  - Users will see the value of signing up for the Econte blog subscription.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+![About section]()
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- __The Footer__ 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  - The footer section includes links to the relevant social media sites (Facebook, Youtube, Instagram) for Econte. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+![Footer section](assets/docs/econte_footer.png)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- __Blog Page__
 
-------
+  - The blog page will provide the users with thoughtful contents to uplevel their life, focusing on mindfulness and personal growth.
+  - This section is valuable to the user as the contents will be able to provide valuble insight and tips on living mindfully.
 
-## FAQ about the uptime script
+![Blog section]()
 
-**Why have you added this script?**
+- __Subscribe Page__
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+  - This page will allow the user to subscibe for a dose of inspiration for mindful living. The user will be asked to submit their first name, last name and email address. 
 
-**How will this affect me?**
+![Subscribe page]()
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+### Features Left to Implement
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+- In the future, I would like to implement a feature where users can view and signup for mindfulness classes (provided by third party) arounds the world.
+- Mindfulness classes such as meditation, soundbath and yoga etc. are the some of examples.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+## Testing
 
-**So….?**
+ - Econte page works in differnet browsers: Chrome, Firefox, Safari 
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+ - This website is responsive, looks good and functions on all standard screen sizes using the devtool device toolbar.
 
-**Can I opt out?**
+ - Navigation menu will change to hamburger icon if viewed in smaller devices.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+ - THa navigation, home, blog, and subscribe text are all readable and easy to understand.
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+ - Form in the subscribe page works: requires entries in every field, will only accept an email in the email field,  and the submit button works.
 
-**Anything more?**
+### Validator Testing 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+   - Index page:
+![HTML Validator1](assets/docs/econte_html_index_validator.png)
+   - Blog page:
+![HTML Validator2](assets/docs/econte_html_blog_validator.png)
+   - Subscribe page:
+![HTML Validator3](assets/docs/econte_html_subscribe_validator.png)
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+![CSS Validator](assets/docs/econte_css_validator.png)
+- Accessibility
+  - Colors and fonts chosed are easy to read and accessible by running it throght lighthouse in devtools.
+![Light House](assets/docs/econte_lighthouse.png)
 
----
+### Solved Bugs
+ 
+ - Split page function used for larger screens was not working.
 
-Happy coding!
+ - This bug has been fixed by changing flex-direction in the media queries section to row from column.
+
+   .split-screen {
+    flex-direction: row;
+    height: 100vh;
+  }
+
+ ### Unfixed Bugs
+
+No unfixed bugs
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://bytesbyt.github.io/econte/
+
+
+## Credits
+
+### Content 
+
+- The text for the Home page and blog articles was taken from [Mellio Obrien](https://melliobrien.com/)
+- The code to make the hero section was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The code to make the social media links was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The code to make the navigation was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The code to make subscibe page was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The hamburger icons in the navigation was taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The responsive mock up image in ReadMe has been produced using [AmIResponsive?] (https://ui.dev/amiresponsive)
+
+
+### Media
+
+- The photos used on the home, blog and subscibe pages are from [Pexels](https://www.pexels.com/)
+- The video used for the home page is from [Videvo](https://www.videvo.net/)
