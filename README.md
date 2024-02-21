@@ -49,11 +49,6 @@ Mobile first wireframes were created to show the basic layout of the website usi
 
  ![Landing Page Image](assets/docs/econte_landing.png)
 
-- __Video Section__
-
-  - The video section will visually inspire and encourage the user to consider yoga as their form of practice for mindful living.
-
-![Video Page](assets/docs/econte_video.png)
 
 - __About Section__
 
