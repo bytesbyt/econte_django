@@ -51,7 +51,7 @@ Mobile first wireframes were created to show the basic layout of the website usi
 
  - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites (Facebook, Youtube,X, Instagram) for Econte. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites (Facebook, Youtube, X, Instagram) for Econte. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer Section](static/images/econte_footer.png)
@@ -134,10 +134,10 @@ Mobile first wireframes were created to show the basic layout of the website usi
 ![HTML Validator3](static/images/econte_html_contact_validator.png)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
-![CSS Validator](assets/docs/econte_css_validator.png)
+![CSS Validator](static/images/econte_css_validator.png)
 - Accessibility
   - Colors and fonts chosed are easy to read and accessible by running it through lighthouse in devtools.
-![Light House](assets/docs/econte_lighthouse.png)
+![Light House](static/images/econte_lighthouse.png)
 
 
  ### Unfixed Bugs
