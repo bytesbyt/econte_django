@@ -136,19 +136,9 @@ Mobile first wireframes were created to show the basic layout of the website usi
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 ![CSS Validator](assets/docs/econte_css_validator.png)
 - Accessibility
-  - Colors and fonts chosed are easy to read and accessible by running it throght lighthouse in devtools.
+  - Colors and fonts chosed are easy to read and accessible by running it through lighthouse in devtools.
 ![Light House](assets/docs/econte_lighthouse.png)
 
-### Solved Bugs
- 
- - Split page function used for larger screens was not working.
-
- - This bug has been fixed by changing flex-direction in the media queries section to row from column.
-
-   .split-screen {
-    flex-direction: row;
-    height: 100vh;
-  }
 
  ### Unfixed Bugs
 
@@ -156,12 +146,9 @@ No unfixed bugs
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed using Heroku.
 
-The live link can be found here - https://bytesbyt.github.io/econte/
+The live link can be found here - https://econte-django-c52c73d2f0b2.herokuapp.com/
 
 
 ## Credits
@@ -169,16 +156,15 @@ The live link can be found here - https://bytesbyt.github.io/econte/
 ### Content 
 
 - The text for the Home page and blog articles was taken from [Mellio Obrien](https://melliobrien.com/)
-- The code to make the hero section was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-- The code to make the social media links was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-- The code to make the navigation was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-- The code to make subscibe page was take from the [CI Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-- The hamburger icons in the navigation was taken from [Font Awesome](https://fontawesome.com/)
+- The code to make the hero section was take from the [CI ](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+- The code to make the social media links was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
+- The code to make the navigation was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
+- The code to make contact page was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
+ The code to make blog page was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- The responsive mock up image in ReadMe has been produced using [AmIResponsive?] (https://ui.dev/amiresponsive)
+
 
 
 ### Media
 
 - The photos used on the home, blog and subscibe pages are from [Pexels](https://www.pexels.com/)
-- The video used for the home page is from [Videvo](https://www.videvo.net/)
