@@ -17,5 +17,8 @@ class AboutAdmin(SummernoteModelAdmin):
 
 @admin.register(ContactRequest)
 class ContactRequestAdmin(admin.ModelAdmin):
+    """
+    Lists message and read fields for display in admin
+    """
 
     list_display = ('message', 'read',)

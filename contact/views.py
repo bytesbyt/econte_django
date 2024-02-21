@@ -5,6 +5,21 @@ from .forms import ContactForm
 
 # Create your views here.
 def contact_me(request):
+    """
+    Renders the most recent information on the website author
+    and allows user contact requests.
+
+    Displays an individual instance of :model:`contact.Contact`.
+
+    **Context**
+    ``contact``
+        The most recent instance of :model:`contact.Contact`.
+        ``contact_form``
+            An instance of :form:`contact.ContactForm`.
+    
+    **Template**
+    :template:`contact/contact.html`
+    """
 
     if request.method == "POST":
         contact_form = ContactForm(data=request.POST)

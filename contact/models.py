@@ -2,6 +2,9 @@ from django.db import models
 
 # Create your models here.
 class Contact(models.Model):
+    """
+    Stores a single contact me text
+    """
     title = models.CharField(max_length=200)
     updated_on = models.DateTimeField(auto_now=True)
     content = models.TextField()
@@ -10,6 +13,9 @@ class Contact(models.Model):
         return self.title
 
 class ContactRequest(models.Model):
+    """
+    Stores a single contact request message
+    """
     name = models.CharField(max_length=200)
     email = models.EmailField()
     message = models.TextField()
