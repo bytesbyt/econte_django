@@ -118,9 +118,9 @@ Mobile first wireframes were created to show the basic layout of the website usi
 
  - Navigation menu will change to hamburger icon if viewed in smaller devices.
 
- - THa navigation, home, blog, and subscribe text are all readable and easy to understand.
+ - The home, about, sign up, sign in, sign out, and contact text are all readable and easy to understand.
 
- - Form in the subscribe page works: requires entries in every field, will only accept an email in the email field,  and the submit button works.
+ - Form in the contact page works: requires entries in every field, will only accept an email in the email field,  and the submit button works.
 
 ### Validator Testing 
 
@@ -156,7 +156,7 @@ The live link can be found here - https://econte-django-c52c73d2f0b2.herokuapp.c
 ### Content 
 
 - The text for the Home page and blog articles was taken from [Mellio Obrien](https://melliobrien.com/)
-- The code to make the hero section was take from the [CI ](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
+
 - The code to make the social media links was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
 - The code to make the navigation was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
 - The code to make contact page was take from the [CI I Think Therefore I Blog](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FSD101_WTS+2023_Q3/courseware/56a2da0940b4411d8a38c2b093a22c60/4565659a34d648b8b8edd063c3182180/)
