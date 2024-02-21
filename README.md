@@ -64,11 +64,26 @@ Mobile first wireframes were created to show the basic layout of the website usi
 ![Blog Post Page](static/images/econte_blogpost.png)
 
 
+- __Comment Section__
+
+  - Comment section will allow signed in users to leave and edit comments.
+
+![Comment Section](static/images/econte_comments.png)
+
+
+- __About Page__
+
+  - About section will allow the users to understand what is mindfulness and see the benefits of joining the community of mindfulness. 
+  - Users will see the value of signing up for the Econte blog subscription.
+
+![About Section](static/images/econte_about.png)
+
+
 - __Sign Up Page__
 
   - Sign up page will allow the users to sign up for a login id.
 
-![About section](static/images/econte_signup.png)
+![Sign Up Page](static/images/econte_signup.png)
 
 - __Sign In Page__
 
@@ -84,20 +99,11 @@ Mobile first wireframes were created to show the basic layout of the website usi
 ![Sign Out Page](static/images/econte_signout.png)
 
 
-- __About Page__
+- __Contact Page__
 
-  - About section will allow the users to understand what is mindfulness and see the benefits of joining the community of mindfulness. 
-  - Users will see the value of signing up for the Econte blog subscription.
+  - This page will allow the user to contact us. The user will be asked to submit their name, email address and mesaage.
 
-![About section](static/images/econte_about.png)
-
-
-
-- __Subscribe Page__
-
-  - This page will allow the user to subscibe for a dose of inspiration for mindful living. The user will be asked to submit their first name, last name and email address. 
-
-![Subscribe page]()
+![Contact Page](static/images/econte_contact.png)
 
 ### Features Left to Implement
 
