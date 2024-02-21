@@ -6,9 +6,12 @@ It is available to the whole world aiming to enrich other people’s lives by pr
 
 ![Index page](static/images/econte_index.png)
 
-## Wireframes
+## Database
 
-Mobile first wireframes were created to show the basic layout of the website using Figma. This can be viewed on [Figma](https://www.figma.com/file/tn31GmaDQI9G27byM7oohP/Untitled?type=design&node-id=0%3A1&mode=design&t=Xah0acr87TvzVzTs-1)
+There are three Django models: About, Blog, Contact.
+Below diagram shows relationships between tem:
+
+ [Figma](https://www.figma.com/file/tn31GmaDQI9G27byM7oohP/Untitled?type=design&node-id=0%3A1&mode=design&t=Xah0acr87TvzVzTs-1)
 
 - __Home Page__›
 
