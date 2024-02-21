@@ -105,8 +105,8 @@ Mobile first wireframes were created to show the basic layout of the website usi
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
    - Index page:
 ![HTML Validator1](assets/docs/econte_html_index_validator.png)
-   - Blog page:
-![HTML Validator2](assets/docs/econte_html_blog_validator.png)
+   - About page:
+![HTML Validator2](static/images/econte_html_about_validator.png)
    - Subscribe page:
 ![HTML Validator3](assets/docs/econte_html_subscribe_validator.png)
 - CSS
