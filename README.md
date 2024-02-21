@@ -35,41 +35,63 @@ Mobile first wireframes were created to show the basic layout of the website usi
 - __Navigation Bar__
 
   - Featured at the top of the page, the navigation shows the blog name in the left corner: Econte.
-  - Featured on all three pages on the right, the full responsive navigation bar includes links to the Home, Blog and Subscibe page and is identical in each page to allow for easy navigation.
+  - Featured on all five pages on the left, the full responsive navigation bar includes links to the Home, About, Register, Login and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The navigation clearly tells the user the name website and makes the different sections of information easy to read.
 
-
- ![Navigation Bar]()
-
-- __The landing page image__
-
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the users of Econte with an eye catching zoom effect animation to grab their attention.
-
- ![Landing Page Image](assets/docs/econte_landing.png)
+ ![Navigation Bar](static/images/econte_nav.png)
 
 
-- __About Section__
+- __The Blog Landing Page__
+
+  - The landing includes the blog page will provide the users with thoughtful contents to uplevel their life, focusing on mindfulness and personal growth.
+
+ ![Landing Page Image](static/images/econte_blog.png)
+
+
+ - __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites (Facebook, Youtube,X, Instagram) for Econte. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
+
+![Footer Section](static/images/econte_footer.png)
+
+
+- __Blog Post Page__
+
+  - This section is valuable to the user as the contents will be able to provide valuble insight and tips on living mindfully.
+
+![Blog Post Page](static/images/econte_blogpost.png)
+
+
+- __Sign Up Page__
+
+  - Sign up page will allow the users to sign up for a login id.
+
+![About section](static/images/econte_signup.png)
+
+- __Sign In Page__
+
+  - Sign in page will allow the users to sign in to leave and edit comments/ blog posts.
+
+![Sign In Page](static/images/econte_signin.png)
+
+
+- __Sign Out Page__
+
+  - Once you are signed in, sign out page will allow the users to sign out.
+
+![Sign Out Page](static/images/econte_signout.png)
+
+
+- __About Page__
 
   - About section will allow the users to understand what is mindfulness and see the benefits of joining the community of mindfulness. 
   - Users will see the value of signing up for the Econte blog subscription.
 
-![About section]()
+![About section](static/images/econte_about.png)
 
-- __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites (Facebook, Youtube, Instagram) for Econte. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
-
-![Footer section](assets/docs/econte_footer.png)
-
-- __Blog Page__
-
-  - The blog page will provide the users with thoughtful contents to uplevel their life, focusing on mindfulness and personal growth.
-  - This section is valuable to the user as the contents will be able to provide valuble insight and tips on living mindfully.
-
-![Blog section]()
 
 - __Subscribe Page__
 
