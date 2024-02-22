@@ -1,4 +1,4 @@
-# Econte Lab
+# Econte
 
 Econte Lab is a blog site that hopes to create a platform where like-minded individuals can keep motivated to live mindfully by sharing tips and strategies on how to become a mindful pereson.
 
@@ -10,28 +10,11 @@ Users will be able to sign up and login to their account to leave comments and i
 
 ## Database
 
-There are three Django models: About, Blog, Contact.
-Below diagram shows relationships between them:
+Signed up users will be able to comment on the post.
+Below ERD shows relationships between the models:
 
- [Diagram](static/images/econte_index.png)
+ ![Diagram](static/images/econte_erd.png)
 
-- __Home Page__›
-
-  - Wireframe image below shows top and bottom mobile view of the Home page.
-
-![Home Page]()
-
-- __Blog Page__
-
-  - Wireframe image below shows top and bottom mobile view of the Blog page.
-
-![Blog Page]()
-
-- __Subscibe Page__
-
-  - Wireframe image below shows mobile view of the Subscribe page.
-
-![Subscribe Page]()
 
 ## Features 
 
