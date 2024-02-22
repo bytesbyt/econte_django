@@ -9,9 +9,9 @@ It is available to the whole world aiming to enrich other people’s lives by pr
 ## Database
 
 There are three Django models: About, Blog, Contact.
-Below diagram shows relationships between tem:
+Below diagram shows relationships between them:
 
- [Figma](https://www.figma.com/file/tn31GmaDQI9G27byM7oohP/Untitled?type=design&node-id=0%3A1&mode=design&t=Xah0acr87TvzVzTs-1)
+ [Diagram](static/images/econte_index.png)
 
 - __Home Page__›
 
@@ -124,6 +124,8 @@ Below diagram shows relationships between tem:
  - The home, about, sign up, sign in, sign out, and contact text are all readable and easy to understand.
 
  - Form in the contact page works: requires entries in every field, will only accept an email in the email field,  and the submit button works.
+
+ - Comment form passed test.
 
 ### Validator Testing 
 
