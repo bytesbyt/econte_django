@@ -4,6 +4,8 @@ Econte Lab is a blog site that hopes to create a platform where like-minded indi
 
 It is available to the whole world aiming to enrich other people’s lives by providing content that can help hone a positive outlook toward life.
 
+Users will be able to sign up and login to their account to leave comments and interact.
+
 ![Index page](static/images/econte_index.png)
 
 ## Database
