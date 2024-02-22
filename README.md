@@ -125,7 +125,9 @@ Below diagram shows relationships between them:
 
  - Form in the contact page works: requires entries in every field, will only accept an email in the email field,  and the submit button works.
 
- - Comment form passed test.
+ - Comment form validation passed the automated test.
+
+ - Contact form validation passed the automated test.
 
 ### Validator Testing 
 
