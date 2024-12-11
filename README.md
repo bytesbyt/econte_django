@@ -1,6 +1,6 @@
 # Econte
 
-Econte Lab is a blog site that hopes to create a platform where like-minded individuals can keep motivated to live mindfully by sharing tips and strategies on how to become a mindful pereson.
+Econte Lab is a blog site that hopes to create a platform where like-minded individuals can keep motivated to live mindfully by sharing tips and strategies on how to become a mindful person.
 
 It is available to the whole world aiming to enrich other people’s lives by providing content that can help hone a positive outlook toward life.
 
